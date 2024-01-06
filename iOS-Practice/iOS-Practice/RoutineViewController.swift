@@ -18,6 +18,8 @@ final class RoutineViewController: UIViewController {
     private let routineView = RoutineView()
     private lazy var collectionview = routineView.collectionView
     
+    
+    
     // MARK: - Life Cycles
     
     override func loadView() {
